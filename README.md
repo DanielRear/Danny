@@ -1,2 +1,2 @@
 # Danny
-Finding out abd solving Cura Bugs
+Finding out and solving Cura Bugs
